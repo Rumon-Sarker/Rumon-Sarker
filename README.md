@@ -95,7 +95,7 @@ Admins can manage items, while users can order coffee with the **payment system*
  -->
 ## 📫 Connect with Me
 - 📧 Email: **mdsrrumon1234@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/md-rumon-sarker-589209241](https://www.linkedin.com/in/md-rumon-sarker-589209241/)  
+- 💼 LinkedIn: [linkedin.com/in/rumon-sarker](https://www.linkedin.com/in/rumon-sarker/)  
 - 🐦 Twitter: [twitter.com/Rumon_Sarker1](https://twitter.com/Rumon_Sarker1)  
 - 🌐 Portfolio: [portfolio2-six-blush.vercel.app](https://portfolio2-six-blush.vercel.app/)  
 
