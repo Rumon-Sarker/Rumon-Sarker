@@ -1,36 +1,71 @@
-# Hi there, I'm Rumon Sarker Rubel 👋
+# Hi there, I'm Md Rumon Sarker 👋  
 
-I'm a junior ReactJS & Next.js developer passionate about creating engaging web experiences. With experience in React, Next.js, Node.js, MongoDB, Express, and Tailwind CSS, I love turning ideas into reality through clean and efficient code.
+🚀 **Junior MERN Stack Developer** at [HasanIT Solutions](#)  
+📍 Uttara, Dhaka, Bangladesh  
+📧 mdsrrumon1234@gmail.com  
 
-## 🔭 What I'm currently working on:
+---
 
-- Enhancing my skills in React and Next.js by building a personal project that combines both technologies.
-- Exploring server-side rendering with Next.js for improved performance and SEO.
+## 👨‍💻 About Me
+I am a **Junior MERN Stack Developer** currently working at **HasanIT Solutions**, where I build modern, responsive, and user-friendly web applications that help clients grow their businesses.  
+I love turning ideas into functional products with **clean code**, **efficient design**, and a focus on **user experience**.  
 
-## 🌱 What I'm currently learning:
+✨ Always eager to **learn new technologies** and **solve challenging problems**.  
+🤝 Strong at **team collaboration** and **project ownership**.  
 
-- Advanced React patterns and best practices.
-- GraphQL to integrate with my Node.js backend projects.
+---
 
-## 💼 Skills:
+## 🛠️ Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript, React.js, Next.js, Tailwind CSS, Redux, React Router  
+- **Backend:** Node.js, Express.js, REST API  
+- **Database:** MongoDB  
+- **Tools & Platforms:** Git, GitHub, VS Code, Vercel, Netlify, Firebase  
 
-- React
-- Next.js
-- Node.js
-- MongoDB
-- Express
-- Tailwind CSS
+---
 
-## 🚀 How to reach me:
+## 💼 Professional Experience
+- **Junior MERN Stack Developer** — HasanIT Solutions (11/2024 – Present)  
+- **Frontend Developer** — BDCalling (04/2024 – 10/2024)  
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/md-rumon-sarker-589209241/) or [Twitter](https://twitter.com/Rumon_Sarker1). I'm always open to connecting with fellow developers and discussing potential collaborations or just chatting about tech!
+---
 
+## 🚀 Featured Projects
 
+### 🔹 [Hasan’s IT Solutions](#)
+> Software company portfolio website with dynamic projects and admin dashboard.  
+**Tech:** Next.js, MongoDB, Tailwind CSS, Framer Motion  
+📅 01/2025 – 02/2025  
 
-## 🎨 Fun fact:
+---
 
-I love exploring animation and UI/UX design principles, and I often incorporate creative animations into my projects to enhance user experience.
+### 🔹 [Green Coffee House](#)
+> Coffee shop web app with **user & admin roles**.  
+Admins can manage items, users can order coffee with **payment integration**.  
+**Credentials:**  
+- Email: `admin@gmail.com`  
+- Password: `admin1`  
+**Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Firebase, React-Hook-Form, TanStack Query, Axios  
+📅 08/2023 – 10/2023  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
+### 🔹 [MotoDojo](#)
+> Rider Training Website for showcasing training packages & registrations.  
+**Tech:** Next.js, Tailwind CSS  
+📅 03/2025 – 04/2025  
+
+---
+
+## 🎓 Education
+**Diploma in Computer Science & Technology (CST)**  
+Feni Computer Institute (2019 – 2023)  
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: **mdsrrumon1234@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/rumon-sarker](#)  
+- 🌐 Portfolio: [rumon-sarker.vercel.app](#)  
+
+---
+⭐️ From [Rumon-Sarker](https://github.com/Rumon-Sarker)
