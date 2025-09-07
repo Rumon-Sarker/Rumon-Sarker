@@ -8,7 +8,7 @@
 
 ##  About Me
 I’m a passionate **MERN Stack Developer** focused on building modern, responsive, and user-friendly web applications.  
-I am currently working at HasansIT Solution, where I have hands-on experience with React, Next.js, Node.js, Express.js, and MongoDB etc.  
+I currently work at HasansIT Solution, where I have hands-on experience with React, Next.js, Node.js, Express.js, MongoDB, etc.  
 I love turning ideas into functional products with clean code, elegant UI, and optimized performance.  
 
  I thrive in teamwork, quick problem-solving, and continuously learning new technologies.  
