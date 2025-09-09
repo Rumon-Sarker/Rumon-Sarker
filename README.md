@@ -44,7 +44,7 @@ Git | GitHub | VS Code | Vercel | Netlify | Postman | Figma
 
 ##  Professional Experience
 - **Junior MERN Stack Developer** — HasansIT Solution (11/2024 – Present)  
-- **Frontend Developer** — BDCalling (04/2024 – 10/2024)  
+- **Frontend Developer** — BDCalling (07/2024 – 10/2024)  
 - **ReactJS Developer (Internship)** — BDTask (10/2022 – 01/2023)  
 
 ---
