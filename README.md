@@ -51,7 +51,7 @@ Git | GitHub | VS Code | Vercel | Netlify | Postman | Figma
 
 # Featured Projects
 
-### [Vaizans Organic](https://vaizansorganic.com)
+### [Vaizans Organic](https://organic.vaizans.com/)
 > Full-stack **e-commerce platform** with user authentication, product management, order system, and admin dashboard.  
 **Used:** #Nextjs #Tailwind #MongoDb #NextAuth #Nodemailer  
 📅 2025  
